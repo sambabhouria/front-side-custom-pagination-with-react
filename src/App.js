@@ -3,7 +3,7 @@ import Countries from "countries-api/lib/data/Countries.json";
 import "./App.css";
 
 import Pagination from "./components/pagination";
-import CountryCard from "./components/country-card";
+import CountryCard from "./components/country-cards";
 
 class App extends Component {
   state = {
